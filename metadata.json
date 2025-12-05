@@ -1,0 +1,9 @@
+{
+  "name": "RPF Shakti",
+  "description": "A dedicated welfare and safety support platform for RPF women personnel, featuring complaint tracking, hierarchical monitoring, and emergency assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
